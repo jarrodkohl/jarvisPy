@@ -1,6 +1,13 @@
+Jarvis PY is a project meant to be a voice prompted AI chat bot, enjoy! 
+The APIs are free for limited use, but eventually you would need to pay for them.
+
+This is built with Python, Typescript and React
+
+
+
 # Instructions
 
-## Download
+## Download 
 
 Download the package from GitHub
 
@@ -30,12 +37,6 @@ Activate Virtual Environment (MAC)
 source venv/bin/activate
 ```
 
-Activate Virtual Environment (Windows)
-
-```shell
-source venv/Scripts/activate
-```
-
 Upgrade PIP
 
 ```shell
@@ -50,11 +51,6 @@ Install required Python packages
 pip3 install openai python-decouple fastapi "uvicorn[standard]" python-multipart
 ```
 
-Or use this alternative method (although this alternative method might not work if using Windows)
-
-```shell
-pip3 install -r requirements.txt
-```
 
 ### Create Environment Variables
 
@@ -136,3 +132,4 @@ You can check your live server is working by going to:
 ```plain
 http://localhost:4173/health
 ```
+Then you should be up and running!
