@@ -9,11 +9,6 @@ This is built with Python, Typescript and React
 
 ## Download 
 
-Download the package from GitHub
-
-```shell
-git clone https://github.com/coderaidershaun/chatbot-conversation-jarvis.git chatbot
-```
 
 ## Setup backend
 
